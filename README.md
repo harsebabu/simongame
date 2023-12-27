@@ -1,2 +1,2 @@
 # simongame
-This is simongame and be can play with two player
+This is simongame and be can play with two player 
